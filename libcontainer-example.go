@@ -25,8 +25,6 @@ func main() {
 	// The first argument is expected to be the path
 	// to the root FS directory
 	rootfs := os.Args[1]
-	//defer remove(rootfs)
-
 	defaultMountFlags := syscall.MS_NOEXEC | syscall.MS_NOSUID | syscall.MS_NODEV
 	config := &configs.Config{
 		Rootfs: rootfs,
