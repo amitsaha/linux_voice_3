@@ -12,3 +12,5 @@
 - Kernel namespaces series of articles: https://lwn.net/Articles/531114/
 - Getting Started with OCI on Fedora: http://www.projectatomic.io/blog/2016/04/running_OCI/
 - runC and libcontainer on Fedora: http://echorand.me/runc-and-libcontainer-on-fedora-2324.html#.Vyf4jEF94UE
+- docker daemon user namespace options: https://docs.docker.com/engine/reference/commandline/daemon/#daemon-user-namespace-options
+- Getting towards real sandbox containers: https://blog.jessfraz.com/post/getting-towards-real-sandbox-containers/
