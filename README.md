@@ -10,3 +10,5 @@
 - OCI image format: https://github.com/opencontainers/image-spec
 - Connecting with the Open Container Initiative community: https://www.opencontainers.org/community
 - Kernel namespaces series of articles: https://lwn.net/Articles/531114/
+- Getting Started with OCI on Fedora: http://www.projectatomic.io/blog/2016/04/running_OCI/
+- runC and libcontainer on Fedora: http://echorand.me/runc-and-libcontainer-on-fedora-2324.html#.Vyf4jEF94UE
