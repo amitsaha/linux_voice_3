@@ -1,5 +1,13 @@
 # Exploring runC and libcontainer
 
+Here you will find the resources for the article in Linux Voice, Issue 28.
+
+# Things that have already changed
+
+- https://github.com/opencontainers/ocitools/issues/51#issuecomment-220505927
+- https://github.com/opencontainers/runtime-spec/pull/425
+
+
 # Resources
 
 - Container Runtime Specification: https://github.com/opencontainers/runtime-spec
